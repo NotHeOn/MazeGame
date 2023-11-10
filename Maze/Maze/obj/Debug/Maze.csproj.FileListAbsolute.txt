@@ -1,0 +1,38 @@
+C:\Users\86159\Desktop\课设\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\86159\Desktop\课设\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\86159\Desktop\课设\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\Game.g.cs
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\MainWindow.g.cs
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\App.g.cs
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\Maze_MarkupCompile.cache
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\Maze_MarkupCompile.lref
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\Game.baml
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\MainWindow.baml
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\Maze.g.resources
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.cache
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\Maze.pdb
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\Maze.csproj.AssemblyReference.cache
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\Setting.g.cs
+C:\Users\86159\Desktop\课设\Maze\Maze\obj\Debug\Setting.baml
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\Maze.csproj.AssemblyReference.cache
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\Game.g.cs
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\MainWindow.g.cs
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\Setting.g.cs
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\App.g.cs
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\Maze_MarkupCompile.cache
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\Maze_MarkupCompile.lref
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\Game.baml
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\MainWindow.baml
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\Setting.baml
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\Maze.g.resources
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.cache
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\86159\Desktop\课设 - 副本\Maze\Maze\obj\Debug\Maze.pdb
